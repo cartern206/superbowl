@@ -96,7 +96,7 @@ var data = {
     "Name": "What will happen first?",
     "A": "Score",
     "B": "Punt"
-   },S
+   },
    {
     "Name": "Convert on 4th down:",
     "A": "Yes",
@@ -130,3 +130,4 @@ var data = {
   ]
  }
  
+S
