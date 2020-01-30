@@ -132,8 +132,6 @@ var data = {
     "A": "Chiefs",
     "B": "49ers"
    },
-
-
    {
     "Name": "How many wardrobe changes for J-Lo during halftime:",
     "A": "OVER 2.5",
