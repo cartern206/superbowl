@@ -9,8 +9,8 @@ var data = {
    }, 
    {
     "Name": "Gatorade Color:",
-    "A": "Red",
-    "B": "Blue"
+    "A": "Orange",
+    "B": "Clear"
    }, 
    {
     "Name": "Throws an Interception:",
@@ -28,7 +28,7 @@ var data = {
     "B": "49ers"
    },
    {
-    "Name": "Shortest Touch Down:",
+    "Name": "Shortest Touchdown:",
     "A": "OVER 1.5yrds",
     "B": "Under 1.5yrds"
    },
@@ -161,8 +161,12 @@ var data = {
     "Name": "Will Tyreek Hill Score a Touchdown:",
     "A": "Yes",
     "B": "No"
+   },
+   {
+    "Name": "Will Tyreek Hill Score a Touchdown:",
+    "A": "Yes",
+    "B": "No"
    }
   ]
  }
  
-S
