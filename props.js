@@ -36,7 +36,7 @@ var data = {
       "B": "Over 2.5"
     },
     {
-      "Name": "Longest Touch Down:",
+      "Name": "Longest Touchdown:",
       "A": "Over 47.5yrds",
       "B": "Over 40.5yrds"
     },
