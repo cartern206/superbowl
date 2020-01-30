@@ -1,5 +1,5 @@
 window.onload = initAll;
-src="props.js";
+src = "props.js";
 var usedNums = new Array(76);
 
 function initAll() {
@@ -7,7 +7,7 @@ function initAll() {
     document.getElementById("reload").onclick = anotherCard;
     newCard();
   }
-  else{
+  else {
     alert("Your browser does not support this script.");
   }
 }
@@ -15,26 +15,22 @@ function initAll() {
 function newCard() {
   shuffle1(data.props);
 
-  for(var i=0 ; i<24 ; i++){
-      setSquare(i);
-    }
+  for (var i = 0; i < 24; i++) {
+    setSquare(i);
+  }
 }
 
-function setSquare(thisSquare){
+function setSquare(thisSquare) {
   var currentSquare = "square" + thisSquare;
 
-  if(Math.random() >= 0.5){
-    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name +"<br />"+ data.props[thisSquare].A;
-  }else{
-    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name + "<br />"+ data.props[thisSquare].B;
+  if (Math.random() >= 0.5) {
+    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name + "<br />" + data.props[thisSquare].A;
+  } else {
+    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name + "<br />" + data.props[thisSquare].B;
   }
 
-  
 
-}
 
-function getNewNum() {
-  return Math.floor(Math.random() * 15);
 }
 
 function anotherCard() {
@@ -65,4 +61,4 @@ function shuffle1(array) {
 }
 console.log(shuffle1(data.props));
 console.log(data.props[0].Name);
-console.log(Math.random() >= 0.5) ;
+
