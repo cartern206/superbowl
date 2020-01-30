@@ -88,11 +88,6 @@ var data = {
       "B": "Under 4.5"
     },
     {
-      "Name": "Total Interceptions:",
-      "A": "OVER 1.5",
-      "B": "Under 1.5"
-    },
-    {
       "Name": "First Half Leader:",
       "A": "Chiefs",
       "B": "49ers/Tie"
