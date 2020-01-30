@@ -1,5 +1,3 @@
-
-
 var data = {
   "props": [
     {
@@ -29,18 +27,18 @@ var data = {
     },
     {
       "Name": "Shortest Touchdown:",
-      "A": "OVER 1.5yrds",
-      "B": "Under 1.5yrds"
+      "A": "Under 1.5yrds",
+      "B": "Under 10.5yrds"
     },
     {
       "Name": "Total field goals made in game:",
-      "A": "OVER 3.5",
-      "B": "Under 3.5"
+      "A": "Over 3.5",
+      "B": "Over 2.5"
     },
     {
       "Name": "Longest Touch Down:",
-      "A": "OVER 47.5yrds",
-      "B": "Under 47.5yrds"
+      "A": "Over 47.5yrds",
+      "B": "Over 40.5yrds"
     },
     {
       "Name": "First touchdown is a passing touchdown:",
@@ -49,8 +47,8 @@ var data = {
     },
     {
       "Name": "Largest lead of the game:",
-      "A": "OVER 14.5pts",
-      "B": "Under 14.5pts"
+      "A": "Over 14.5pts",
+      "B": "Over 10.5pts"
     },
     {
       "Name": "Second Half Touchdown:",
@@ -59,23 +57,23 @@ var data = {
     },
     {
       "Name": "Total Interceptions:",
-      "A": "OVER 1.5",
-      "B": "Under 1.5"
+      "A": "Over 1.5",
+      "B": "Over 2.5"
     },
     {
       "Name": "Total Jimmy Garoppolo passing:",
-      "A": "OVER 239.5yrds",
-      "B": "Under 239.5yrds"
+      "A": "Over 239.5yrds",
+      "B": "Over 200.5yrds"
     },
     {
       "Name": "Total Jimmy Garoppolo rushing:",
-      "A": "OVER 3.5yrds",
-      "B": "Under 3.5yrds"
+      "A": "Over 3.5yrds",
+      "B": "Over 6.5yrds"
     },
     {
       "Name": "Will the game be Tied? (after 0-0)",
       "A": "Yes",
-      "B": "No"
+      "B": "Yes"
     },
     {
       "Name": "Coach's Challenge:",
@@ -84,8 +82,8 @@ var data = {
     },
     {
       "Name": "Total Sacks:",
-      "A": "OVER 4.5",
-      "B": "Under 4.5"
+      "A": "Over 4.5",
+      "B": "Over 2.5"
     },
     {
       "Name": "First Half Leader:",
@@ -98,33 +96,33 @@ var data = {
       "B": "Punt"
     },
     {
-      "Name": "Convert on 4th down:",
-      "A": "Yes",
-      "B": "No"
+      "Name": "Total 4th down conversions:",
+      "A": "Over 0.5",
+      "B": "Over 1.5"
     },
     {
       "Name": "Total Patrick Mahomes passing:",
-      "A": "OVER 308.5yrds",
-      "B": "Under 308.5yrds"
+      "A": "Over 308.5yrds",
+      "B": "Over 340.5yrds"
     },
     {
       "Name": "Total Patrick Mahomes rushing:",
-      "A": "OVER 30.5yrds",
-      "B": "Under 30.5yrds"
+      "A": "Over 30.5yrds",
+      "B": "Over 15.5yrds"
     },
     {
       "Name": "Total Tyreek Hill recieving:",
-      "A": "OVER 73.5yrds",
-      "B": "Under 73.5yrds"
+      "A": "Over 73.5yrds",
+      "B": "Over 50.5yrds"
     },
     {
       "Name": "Jersey number of player to score first touchdown:",
-      "A": "OVER 26.5",
+      "A": "Over 26.5",
       "B": "Under 26.5"
     },
     {
       "Name": "First Half Total Points:",
-      "A": "OVER 27.5",
+      "A": "Over 27.5",
       "B": "Under 27.5"
     },
     {
@@ -134,7 +132,7 @@ var data = {
     },
     {
       "Name": "How many wardrobe changes for J-Lo during halftime:",
-      "A": "OVER 2.5",
+      "A": "Over 2.5",
       "B": "Under 2.5"
     },
     {
@@ -170,7 +168,7 @@ var data = {
     {
       "Name": "How many commercials will have a dog in them:",
       "A": "Over 3.5",
-      "B": "Under 3.5"
+      "B": "Over 2.5"
     },
   ]
 }
