@@ -98,7 +98,7 @@ var data = {
       "B": "49ers/Tie"
     },
     {
-      "Name": "What will a punt or score happen first?",
+      "Name": "What will happen first a punt or score?",
       "A": "Score",
       "B": "Punt"
     },
