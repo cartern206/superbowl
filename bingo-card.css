@@ -31,7 +31,8 @@ td {
 	padding: 10px;
 	border: 2px #666 solid;
 	text-align: center;
-	font-size: 0.95em;
+	font-size: 100%;
+	/* font-size: 0.95em; */
 	/* font-size: 4vw;
 	font-size: 24px; */
 }
