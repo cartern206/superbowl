@@ -23,7 +23,7 @@ var data = {
     "B": "No"
    },
    {
-    "Name": "First half Touchdown:",
+    "Name": "First Half Touchdown:",
     "A": "Chiefs",
     "B": "49ers"
    },
@@ -151,8 +151,23 @@ var data = {
     "Name": "Player Scores a Touchdown:",
     "A": "Tyreek Hill",
     "B": "Deebo Samuel"
-   }
-
+   },
+   {
+    "Name": "Comercial:",
+    "A": "Bud Light/Budweiser",
+    "B": "Doritos"
+   },
+   {
+    "Name": "Results of the Coin Toss:",
+    "A": "Heads",
+    "B": "Tails"
+  }, 
+  {
+    "Name": "Comercial:",
+    "A": "Michelob Ultra",
+    "B": "Doritos"
+   },
   ]
  }
  
+How many commercials will have a dog in it
