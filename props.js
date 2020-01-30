@@ -83,7 +83,7 @@ var data = {
     {
       "Name": "First Half Leader:",
       "A": "Chiefs",
-      "B": "49ers/Tie"
+      "B": "49ers or Tie"
     },
     {
       "Name": "What will happen first a punt or score?",
