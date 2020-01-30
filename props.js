@@ -6,11 +6,6 @@ var data = {
       "B": "49ers"
     },
     {
-      "Name": "Gatorade Color:",
-      "A": "Orange",
-      "B": "Clear"
-    },
-    {
       "Name": "Throws an Interception:",
       "A": "Chiefs",
       "B": "49ers"
