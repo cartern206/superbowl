@@ -165,9 +165,13 @@ var data = {
   {
     "Name": "Comercial:",
     "A": "Michelob Ultra",
-    "B": "Doritos"
+    "B": "Cheetos"
+   },
+   {
+    "Name": "How many commercials will have a dog in it:",
+    "A": "Over 3.5",
+    "B": "Under 3.5"
    },
   ]
  }
  
-How many commercials will have a dog in it
