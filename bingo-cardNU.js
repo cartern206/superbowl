@@ -13,7 +13,7 @@ function initAll() {
 }
 
 function newCard() {
-  shuffle1(data.props);
+  shuffle1(dataNU.props);
 
   for (var i = 0; i < 24; i++) {
     setSquare(i);
@@ -24,9 +24,9 @@ function setSquare(thisSquare) {
   var currentSquare = "square" + thisSquare;
 
   if (Math.random() >= 0.5) {
-    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name + "<br />" + data.props[thisSquare].A;
+    document.getElementById(currentSquare).innerHTML = dataNU.props[thisSquare].Name + "<br />" + dataNU.props[thisSquare].A;
   } else {
-    document.getElementById(currentSquare).innerHTML = data.props[thisSquare].Name + "<br />" + data.props[thisSquare].B;
+    document.getElementById(currentSquare).innerHTML = dataNU.props[thisSquare].Name + "<br />" + dataNU.props[thisSquare].B;
   }
 }
 
@@ -56,6 +56,6 @@ function shuffle1(array) {
 
   return array;
 }
-console.log(shuffle1(data.props));
-console.log(data.props[0].Name);
+console.log(shuffle1(dataNU.props));
+console.log(dataNU.props[0].Name);
 
