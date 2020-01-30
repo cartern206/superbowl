@@ -127,6 +127,41 @@ var data = {
     "A": "OVER 27.5",
     "B": "Under 27.5"
    },
+   {
+    "Name": "Which Team Will Commit The First Penalty Of The Game:",
+    "A": "Chiefs",
+    "B": "49ers"
+   },
+   {
+    "Name": "Will Raheem Mostert Score A Touchdown:",
+    "A": "Yes",
+    "B": "No"
+   },
+   {
+    "Name": "Will George Kittle Score a Touchdown:",
+    "A": "Yes",
+    "B": "No"
+   },
+   {
+    "Name": "How many wardrobe changes for J-Lo during halftime:",
+    "A": "OVER 2.5",
+    "B": "Under 2.5"
+   },
+   {
+    "Name": "Will Damien Williams Score a Touchdown:",
+    "A": "Yes",
+    "B": "No"
+   },
+   {
+    "Name": "Will Travis Kelce Score a Touchdown:",
+    "A": "Yes",
+    "B": "No"
+   },
+   {
+    "Name": "Will Tyreek Hill Score a Touchdown:",
+    "A": "Yes",
+    "B": "No"
+   }
   ]
  }
  
