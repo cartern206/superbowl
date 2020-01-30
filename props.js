@@ -98,7 +98,7 @@ var data = {
     {
       "Name": "Total Patrick Mahomes passing:",
       "A": "Over 308.5yrds",
-      "B": "Over 340.5yrds"
+      "B": "Over 275.5yrds"
     },
     {
       "Name": "Total Patrick Mahomes rushing:",
@@ -151,7 +151,7 @@ var data = {
       "B": "Doritos"
     },
     {
-      "Name": "Results of the Coin Toss:",
+      "Name": "Result of the Coin Toss:",
       "A": "Heads",
       "B": "Tails"
     },
