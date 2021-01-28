@@ -3,12 +3,12 @@ var data = {
     {
       "Name": "Team to Score First:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "Throws an Interception:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "Field goal in the first quarter:",
@@ -18,7 +18,7 @@ var data = {
     {
       "Name": "First Half Touchdown:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "Shortest Touchdown:",
@@ -48,7 +48,7 @@ var data = {
     {
       "Name": "Second Half Touchdown:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "Total Interceptions:",
@@ -73,7 +73,7 @@ var data = {
     {
       "Name": "Coach's Challenge:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "Total Sacks:",
@@ -83,7 +83,7 @@ var data = {
     {
       "Name": "First Half Leader:",
       "A": "Chiefs",
-      "B": "49ers or Tie"
+      "B": "Buccaneers or Tie"
     },
     {
       "Name": "What will happen first a punt or score?",
@@ -123,7 +123,7 @@ var data = {
     {
       "Name": "Which team will commit the first penalty of the game:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Buccaneers"
     },
     {
       "Name": "How many wardrobe changes for J-Lo during halftime:",
