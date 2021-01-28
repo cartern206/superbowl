@@ -106,7 +106,7 @@ var data = {
       "B": "Over 15.5yrds"
     },
     {
-      "Name": "Total Tyreek Hill recieving:",
+      "Name": "Total Tyreek Hill receiving:",
       "A": "Over 73.5yrds",
       "B": "Over 50.5yrds"
     },
