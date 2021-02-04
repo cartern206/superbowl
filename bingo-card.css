@@ -39,3 +39,10 @@ td {
 #free {
 	background-color: #F66;
 }
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
