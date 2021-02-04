@@ -11,7 +11,7 @@ var data = {
       "B": "Buccaneers"
     },
     {
-      "Name": "Field goal in the first quarter:",
+      "Name": "Team to Kick a Field goal:",
       "A": "Yes",
       "B": "No"
     },
@@ -23,7 +23,7 @@ var data = {
     {
       "Name": "Shortest Touchdown:",
       "A": "Under 1.5yrds",
-      "B": "Under 10.5yrds"
+      "B": "Under 5.5yrds"
     },
     {
       "Name": "Total field goals made in game:",
@@ -56,14 +56,19 @@ var data = {
       "B": "Over 2.5"
     },
     {
-      "Name": "Total Jimmy Garoppolo passing:",
-      "A": "Over 239.5yrds",
-      "B": "Over 200.5yrds"
+      "Name": "Total Tom Brady passing:",
+      "A": "Over 301.5yrds",
+      "B": "Over 25.5 completions"
     },
     {
-      "Name": "Total Jimmy Garoppolo rushing:",
-      "A": "Over 3.5yrds",
-      "B": "Over 6.5yrds"
+      "Name": "Total Tom Brady passing touchdowns:",
+      "A": "Over 2.5",
+      "B": "Over 1.5"
+    },
+    {
+      "Name": "Total Tom Brady rushing:",
+      "A": "Over 1.5yrds",
+      "B": "Over 2.5yrds"
     },
     {
       "Name": "Will the game be Tied? (after 0-0)",
@@ -72,6 +77,11 @@ var data = {
     },
     {
       "Name": "Coach's Challenge:",
+      "A": "Chiefs",
+      "B": "Buccaneers"
+    },
+    {
+      "Name": "Team Calls a Timeout:",
       "A": "Chiefs",
       "B": "Buccaneers"
     },
@@ -97,23 +107,53 @@ var data = {
     },
     {
       "Name": "Total Patrick Mahomes passing:",
-      "A": "Over 308.5yrds",
-      "B": "Over 275.5yrds"
+      "A": "Over 326.5yrds",
+      "B": "Over 28.5 completions"
+    },
+    {
+      "Name": "Total Patrick Mahomes passing touchdowns:",
+      "A": "Over 2.5",
+      "B": "Over 1.5"
     },
     {
       "Name": "Total Patrick Mahomes rushing:",
-      "A": "Over 30.5yrds",
+      "A": "Over 19.5yrds",
       "B": "Over 15.5yrds"
     },
     {
       "Name": "Total Tyreek Hill receiving:",
-      "A": "Over 73.5yrds",
-      "B": "Over 50.5yrds"
+      "A": "Over 91.5yrds",
+      "B": "Over 6.5 receptions"
     },
     {
+      "Name": "Total Chris Godwin receiving:",
+      "A": "Over 75.5yrds",
+      "B": "Over 5.5 receptions"
+    },
+    {
+      "Name": "Total Mike Evans receiving:",
+      "A": "Over 65.5yrds",
+      "B": "Over 4.5 receptions"
+    },
+    {
+      "Name": "Total Travis Kelce receiving:",
+      "A": "Over 65.5yrds",
+      "B": "Over 7.5 receptions"
+    },
+    {
+      "Name": "Total Clyde Edwards-Helaire rushing:",
+      "A": "Over 32.5yrds",
+      "B": "Over 7.5 carries"
+    },
+    {
+      "Name": "Total Leonard Fournette rushing:",
+      "A": "Over 47.5yrds",
+      "B": "Over 12.5 carries"
+    },
+    { 
       "Name": "Jersey number of player to score first touchdown:",
-      "A": "Over 26.5",
-      "B": "Under 26.5"
+      "A": "Over 23",
+      "B": "Under 24"
     },
     {
       "Name": "First Half Total Points:",
@@ -121,29 +161,39 @@ var data = {
       "B": "Under 27.5"
     },
     {
-      "Name": "Which team will commit the first penalty of the game:",
+      "Name": "Team Commits a Penalty:",
       "A": "Chiefs",
       "B": "Buccaneers"
     },
-    {
-      "Name": "How many wardrobe changes for J-Lo during halftime:",
-      "A": "Over 2.5",
-      "B": "Under 2.5"
+    {// half time prop
+      "Name": "How many wardrobe changes for The Weekend during halftime:",
+      "A": "Over 0.5",
+      "B": "Over 1.5"
+    },
+    {// half time prop
+    "Name": "Halftime guest performer on stage:",
+    "A": "Doja Cat",
+    "B": "Drake"
+    },
+    {// half time prop
+      "Name": "Halftime The Weekend performs:",
+      "A": "Starboy",
+      "B": "BLinding Lights"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "George Kittle",
+      "A": "Chris Godwin",
       "B": "Travis Kelce"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "Raheem Mostert",
-      "B": "Damien Williams"
+      "A": "Mike Evans",
+      "B": "Clyde Edwards-Helaire"
     },
     {
       "Name": "Player Scores a Touchdown:",
       "A": "Tyreek Hill",
-      "B": "Deebo Samuel"
+      "B": "Leonard Fournette"
     },
     {
       "Name": "Commercial:",
@@ -165,6 +215,11 @@ var data = {
       "A": "Over 3.5",
       "B": "Over 2.5"
     },
+    {
+      "Name": "How many commercials will have a dog in them:",
+      "A": "Over 3.5",
+      "B": "Over 2.5"
+    } // maybe need a ,
   ]
 }
 
