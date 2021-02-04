@@ -178,7 +178,7 @@ var data = {
     {// half time prop
       "Name": "Halftime The Weekend performs:",
       "A": "Starboy",
-      "B": "BLinding Lights"
+      "B": "Blinding Lights"
     },
     {
       "Name": "Player Scores a Touchdown:",
