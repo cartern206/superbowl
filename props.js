@@ -197,7 +197,7 @@ var data = {
     },
     {
       "Name": "Commercial:",
-      "A": "Bud Light/Budweiser",
+      "A": "Bud Light/ Budweiser",
       "B": "Doritos"
     },
     {
