@@ -214,12 +214,7 @@ var data = {
       "Name": "How many commercials will have a dog in them:",
       "A": "Over 3.5",
       "B": "Over 2.5"
-    },
-    {
-      "Name": "How many commercials will have a dog in them:",
-      "A": "Over 3.5",
-      "B": "Over 2.5"
-    } // maybe need a ,
+    }
   ]
 }
 
