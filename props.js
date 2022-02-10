@@ -92,8 +92,8 @@ var data = {
     },
     {
       "Name": "Total Punts",
-      "A": "3.5",
-      "B": "1.5"
+      "A": "Over 3.5",
+      "B": "Over 1.5"
     },
     {
       "Name": "Total 4th down conversions:",
