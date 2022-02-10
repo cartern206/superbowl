@@ -1,24 +1,19 @@
 var data = {
   "props": [
     {
-      "Name": "Team to Score First:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "Name": "Team to Score A Touchdown:",
+      "A": "Bengals",
+      "B": "Rams"
     },
     {
       "Name": "Throws an Interception:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Bengals",
+      "B": "Rams"
     },
     {
       "Name": "Team to Kick a Field goal:",
-      "A": "Yes",
-      "B": "No"
-    },
-    {
-      "Name": "First Half Touchdown:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Rams",
+      "B": "Bengals"
     },
     {
       "Name": "Shortest Touchdown:",
@@ -32,43 +27,43 @@ var data = {
     },
     {
       "Name": "Longest Touchdown:",
-      "A": "Over 47.5yrds",
+      "A": "Over 35.5yrds",
       "B": "Over 40.5yrds"
     },
     {
-      "Name": "First touchdown is a passing touchdown:",
-      "A": "Yes",
-      "B": "No"
+      "Name": "Method of Touchdown:",
+      "A": "Passing",
+      "B": "Rushing"
     },
     {
       "Name": "Largest lead of the game:",
-      "A": "Over 14.5pts",
+      "A": "Over 6.5pts",
       "B": "Over 10.5pts"
     },
     {
       "Name": "Second Half Touchdown:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Bengals",
+      "B": "Rams"
     },
     {
       "Name": "Total Interceptions:",
-      "A": "Over 1.5",
-      "B": "Over 2.5"
+      "A": "Over 0.5",
+      "B": "Over 1.5"
     },
     {
-      "Name": "Total Tom Brady passing:",
-      "A": "Over 301.5yrds",
-      "B": "Over 25.5 completions"
+      "Name": "Total Matt Stafford passing:",
+      "A": "Over 275.5yrds",
+      "B": "Over 23.5 completions"
     },
     {
-      "Name": "Total Tom Brady passing touchdowns:",
+      "Name": "Total Matt Stafford passing Touchdowns:",
       "A": "Over 2.5",
       "B": "Over 1.5"
     },
     {
-      "Name": "Total Tom Brady rushing:",
+      "Name": "Total Matt Stafford rushing:",
       "A": "Over 1.5yrds",
-      "B": "Over 2.5yrds"
+      "B": "Over 3.5yrds"
     },
     {
       "Name": "Will the game be Tied? (after 0-0)",
@@ -77,13 +72,13 @@ var data = {
     },
     {
       "Name": "Coach's Challenge:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Bengals",
+      "B": "Rams"
     },
     {
       "Name": "Team Calls a Timeout:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Bengals",
+      "B": "Rams"
     },
     {
       "Name": "Total Sacks:",
@@ -92,13 +87,13 @@ var data = {
     },
     {
       "Name": "First Half Leader:",
-      "A": "Chiefs",
-      "B": "Buccaneers or Tie"
+      "A": "Bengals",
+      "B": "Rams or Tie"
     },
     {
-      "Name": "What will happen first a punt or score?",
-      "A": "Score",
-      "B": "Punt"
+      "Name": "Total Punts",
+      "A": "3.5",
+      "B": "1.5"
     },
     {
       "Name": "Total 4th down conversions:",
@@ -106,94 +101,94 @@ var data = {
       "B": "Over 1.5"
     },
     {
-      "Name": "Total Patrick Mahomes passing:",
-      "A": "Over 326.5yrds",
-      "B": "Over 28.5 completions"
+      "Name": "Total Joe Burrow passing:",
+      "A": "Over 270.5yrds",
+      "B": "Over 260.5 completions"
     },
     {
-      "Name": "Total Patrick Mahomes passing touchdowns:",
+      "Name": "Total Joe Burrow passing Touchdowns:",
       "A": "Over 2.5",
       "B": "Over 1.5"
     },
     {
-      "Name": "Total Patrick Mahomes rushing:",
-      "A": "Over 19.5yrds",
-      "B": "Over 15.5yrds"
+      "Name": "Total Joe Burrow rushing:",
+      "A": "Over 12.5yrds",
+      "B": "Over 18.5yrds"
     },
     {
-      "Name": "Total Tyreek Hill receiving:",
-      "A": "Over 91.5yrds",
-      "B": "Over 6.5 receptions"
-    },
-    {
-      "Name": "Total Chris Godwin receiving:",
+      "Name": "Total Ja'Marr Chase receiving:",
       "A": "Over 75.5yrds",
-      "B": "Over 5.5 receptions"
+      "B": "Over 4.5 receptions"
     },
     {
-      "Name": "Total Mike Evans receiving:",
+      "Name": "Total Cooper Kupp receiving:",
+      "A": "Over 90.5yrds",
+      "B": "Over 7.5 receptions"
+    },
+    {
+      "Name": "Total Odell Beckham receiving:",
+      "A": "Over 60.5yrds",
+      "B": "Over 4.5 receptions"
+    },
+    {
+      "Name": "Total Tee Higgins receiving:",
       "A": "Over 65.5yrds",
       "B": "Over 4.5 receptions"
     },
     {
-      "Name": "Total Travis Kelce receiving:",
-      "A": "Over 65.5yrds",
-      "B": "Over 7.5 receptions"
+      "Name": "Total Joe Mixon rushing:",
+      "A": "Over 60.5yrds",
+      "B": "Over 15.5 carries"
     },
     {
-      "Name": "Total Clyde Edwards-Helaire rushing:",
-      "A": "Over 32.5yrds",
-      "B": "Over 7.5 carries"
-    },
-    {
-      "Name": "Total Leonard Fournette rushing:",
-      "A": "Over 47.5yrds",
-      "B": "Over 12.5 carries"
+      "Name": "Total Cam Akers rushing:",
+      "A": "Over 60.5yrds",
+      "B": "Over 15.5 carries"
     },
     { 
-      "Name": "Jersey number of player to score first touchdown:",
+      "Name": "Jersey number of player to score a Touchdown:",
       "A": "Over 23",
       "B": "Under 24"
     },
     {
-      "Name": "First Half Total Points:",
-      "A": "Over 27.5",
-      "B": "Under 27.5"
-    },
-    {
       "Name": "Team Commits a Penalty:",
-      "A": "Chiefs",
-      "B": "Buccaneers"
+      "A": "Bengals",
+      "B": "Rams"
     },
     {// half time prop
-      "Name": "How many wardrobe changes for The Weekend during halftime:",
-      "A": "Over 0.5",
-      "B": "Over 1.5"
+      "Name": "DR. Dre performs:",
+      "A": "The Next Episode",
+      "B": "Still Dre"
     },
     {// half time prop
-    "Name": "Halftime guest performer on stage:",
-    "A": "Doja Cat",
-    "B": "Drake"
+    "Name": "Eminem performs:",
+    "A": "Lose Yourself",
+    "B": "My Name is"
     },
     {// half time prop
-      "Name": "Halftime The Weekend performs:",
-      "A": "Starboy",
-      "B": "Blinding Lights"
+      "Name": "Total songs preformed at half time:",
+      "A": "Over 6.5",
+      "B": "Over 8.5"
+    },
+    {// half time prop
+      "Name": "Half time song performed:",
+      "A": "California Love",
+      "B": "Family Affair"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "Chris Godwin",
-      "B": "Travis Kelce"
+      "A": "Cooper Kupp",
+      "B": "Tee Higgins"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "Mike Evans",
-      "B": "Clyde Edwards-Helaire"
+      "A": "Odell Beckham",
+      "B": "Joe Mixon"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "Tyreek Hill",
-      "B": "Leonard Fournette"
+      "A": "Ja'Marr Chase",
+      "B": "Cam Akers"
     },
     {
       "Name": "Commercial:",
@@ -201,19 +196,19 @@ var data = {
       "B": "Doritos"
     },
     {
-      "Name": "Result of the Coin Toss:",
+      "Name": "Team Wins Coin Toss:",
       "A": "Heads",
       "B": "Tails"
     },
     {
       "Name": "Commercial:",
-      "A": "Michelob Ultra",
-      "B": "Cheetos"
+      "A": "Booking.com",
+      "B": "Taco Bell"
     },
     {
       "Name": "How many commercials will have a dog in them:",
-      "A": "Over 3.5",
-      "B": "Over 2.5"
+      "A": "Over 5.5",
+      "B": "Over 3.5"
     }
   ]
 }
