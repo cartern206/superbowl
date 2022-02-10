@@ -103,7 +103,7 @@ var data = {
     {
       "Name": "Total Joe Burrow passing:",
       "A": "Over 270.5yrds",
-      "B": "Over 260.5 completions"
+      "B": "Over 23.5 completions"
     },
     {
       "Name": "Total Joe Burrow passing Touchdowns:",
