@@ -17,8 +17,8 @@ var data = {
     },
     {
       "Name": "Shortest Touchdown:",
-      "A": "Under 1.5yrds",
-      "B": "Under 5.5yrds"
+      "A": "Under 1.5yds",
+      "B": "Under 5.5yds"
     },
     {
       "Name": "Total field goals made:",
@@ -27,8 +27,8 @@ var data = {
     },
     {
       "Name": "Longest Touchdown:",
-      "A": "Over 35.5yrds",
-      "B": "Over 25.5yrds"
+      "A": "Over 35.5yds",
+      "B": "Over 25.5yds"
     },
     {
       "Name": "Method of Touchdown:",
@@ -52,7 +52,7 @@ var data = {
     },
     {
       "Name": "Total Jalen Hurts passing:",
-      "A": "Over 200.5yrds",
+      "A": "Over 200.5yds",
       "B": "Over 18.5 completions"
     },
     {
@@ -62,8 +62,8 @@ var data = {
     },
     {
       "Name": "Total Jalen Hurts rushing:",
-      "A": "Over 20.5yrds",
-      "B": "Over 30.5yrds"
+      "A": "Over 20.5yds",
+      "B": "Over 30.5yds"
     },
     {
       "Name": "Will the game be Tied? (after 0-0)",
@@ -102,7 +102,7 @@ var data = {
     },
     {
       "Name": "Total Pat Mahomes passing:",
-      "A": "Over 250.5yrds",
+      "A": "Over 250.5yds",
       "B": "Over 22.5 completions"
     },
     {
@@ -112,37 +112,37 @@ var data = {
     },
     {
       "Name": "Total Pat Mahomes rushing:",
-      "A": "Over 12.5yrds",
-      "B": "Over 16.5yrds"
+      "A": "Over 12.5yds",
+      "B": "Over 16.5yds"
     },
     {
       "Name": "Total Travis Kelce receiving:",
-      "A": "Over 70.5yrds",
+      "A": "Over 70.5yds",
       "B": "Over 4.5 receptions"
     },
     {
       "Name": "Total AJ Brown receiving:",
-      "A": "Over 60.5yrds",
+      "A": "Over 60.5yds",
       "B": "Over 5.5 receptions"
     },
     {
       "Name": "Total Dallas Goedert receiving:",
-      "A": "Over 60.5yrds",
+      "A": "Over 60.5yds",
       "B": "Over 4.5 receptions"
     },
     {
       "Name": "Total Devonta Smith receiving:",
-      "A": "Over 65.5yrds",
+      "A": "Over 65.5yds",
       "B": "Over 4.5 receptions"
     },
     {
       "Name": "Total Isiah Pacheco rushing:",
-      "A": "Over 30.5yrds",
+      "A": "Over 30.5yds",
       "B": "Over 7.5 carries"
     },
     {
       "Name": "Total Miles Sanders rushing:",
-      "A": "Over 50.5yrds",
+      "A": "Over 50.5yds",
       "B": "Over 10.5 carries"
     },
     { 
