@@ -145,7 +145,7 @@ var data = {
       "A": "Over 77.5yds",
       "B": "Over 15.5 carries"
     },
-    { 
+    {
       "Name": "Jersey number of player to score a Touchdown:",
       "A": "Over 20.5",
       "B": "Under 20.5"
@@ -161,9 +161,9 @@ var data = {
       "B": "DJ got us..."
     },
     {// half time prop
-    "Name": "Usher performs:",
-    "A": "Yeah!",
-    "B": "Burn"
+      "Name": "Usher performs:",
+      "A": "Yeah!",
+      "B": "Burn"
     },
     {// half time prop
       "Name": "Usher performs:",
@@ -224,7 +224,72 @@ var data = {
       "Name": "Celebrity Shown:",
       "A": "Taylor swift",
       "B": "Roger Goodell"
-    }
+    },
+    {
+      "Name": "Total points scored in a single quarter:",
+      "A": "Over 10.5",
+      "B": "Over 14.5",
+      "C": "Over 7.5",
+      "F": "Under 10.5",
+      "E": "Under 7.5",
+      "D": "Under 3.5"
+
+    },
+    {
+      "Name": "49ers run or scramble:",
+      a: "Exactly 7 yards",
+      b: "Exactly 11 yards",
+      c: "Exactly 12 yards",
+      d: "Exactly 15 yards",
+      e: "Exactly 17 yards",
+    },
+    {
+      "Name": "Chiefs run or scramble:",
+      a: "Exactly 7 yards",
+      b: "Exactly 11 yards",
+      c: "Exactly 12 yards",
+      d: "Exactly 15 yards",
+      e: "Exactly 17 yards",
+    },
+    {
+      "Name": "49ers pass play:",
+      a: "Exactly 4 yards",
+      c: "Exactly 8 yards",
+      b: "Exactly 11 yards",
+      d: "Exactly 15 yards",
+    },
+    {
+      "Name": "Chiefs pass play:",
+      a: "Exactly 4 yards",
+      c: "Exactly 8 yards",
+      b: "Exactly 11 yards",
+      d: "Exactly 15 yards",
+    },
+    {
+      "Name": "Total timeouts called inside of 2 minutes:",
+      a: "Under 1.5",
+      c: "Under 2.5",
+      b: "Over 3.5",
+      d: "Over 4.5",
+    },
+    {
+      "Name": "Over 34.5 yards in a single quarter",
+      a: "Travis Kelce",
+      e: "Isiah Pacheco",
+      f: "Rashee Rice",
+      c: "George Kittle",
+      b: "Deebo Samuel",
+      d: "Christian McCaffrey",
+    },
+    {
+      "Name": "Shown off-Field exactly 3 times in a single quarter",
+      a: "Travis Kelce",
+      e: "Patrick Mahomes",
+      f: "Andy Reid",
+      c: "George Kittle",
+      b: "Brock Purdy",
+      d: "Christian McCaffrey",
+    },
 
   ]
 }
