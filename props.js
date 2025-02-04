@@ -188,7 +188,7 @@ var data = {
     {
       "Name": "Commercial:",
       "A": "Hexclad",
-      "B": "DoorDash'"
+      "B": "DoorDash"
     },
     {
       "Name": "Kickoff or Punt:",
