@@ -3,21 +3,21 @@ var data = {
     {
       "Name": "Team to Score a Touchdown:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {
       "Name": "Throws an Interception:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {
       "Name": "Team to Kick a Field goal:",
-      "A": "49ers",
+      "A": "Eagles",
       "B": "Chiefs"
     },
     {
       "Name": "Touchdown distance:",
-      "A": "Under 1.5yds",
+      "A": "Under 10.5yds",
       "B": "Under 5.5yds"
     },
     {
@@ -27,8 +27,8 @@ var data = {
     },
     {
       "Name": "Longest Touchdown:",
-      "A": "Over 25.5yds",
-      "B": "Over 15.5yds"
+      "A": "Over 20.5yds",
+      "B": "Over 10.5yds"
     },
     {
       "Name": "Method of Touchdown:",
@@ -37,13 +37,13 @@ var data = {
     },
     {
       "Name": "Largest lead of the game:",
-      "A": "Over 4.5pts",
+      "A": "Over 3.5pts",
       "B": "Over 7.5pts"
     },
     {
       "Name": "Second Half Touchdown:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {
       "Name": "Total Interceptions:",
@@ -51,39 +51,29 @@ var data = {
       "B": "Over 1.5"
     },
     {
-      "Name": "Total Brock Purdy passing:",
-      "A": "Over 225.5yds",
-      "B": "Over 18.5 completions"
+      "Name": "Total Jalen Hurts passing:",
+      "A": "Over 195.5yds",
+      "B": "Over 15.5 completions"
     },
     {
-      "Name": "Total Brock Purdy passing Touchdowns:",
-      "A": "Over 0.5",
-      "B": "Over 1.5"
-    },
-    {
-      "Name": "Total Brock Purdy rushing:",
-      "A": "Over 8.5yds",
-      "B": "Over 6.5yds"
+      "Name": "Total Jalen Hurts rushing:",
+      "A": "Over 18.5yds",
+      "B": "Over 24.5yds"
     },
     {
       "Name": "Coach's Challenge:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {
       "Name": "Team Calls a Timeout:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {// number
       "Name": "Total Sacks:",
-      "A": "Over 3.5",
+      "A": "Over 2.5",
       "B": "Over 1.5"
-    },
-    {// dead square
-      "Name": "First Half Leader:",
-      "A": "Chiefs or Tie",
-      "B": "49ers"
     },
     {// number
       "Name": "Total Punts",
@@ -101,114 +91,104 @@ var data = {
       "B": "Over 23.5 completions"
     },
     {
-      "Name": "Total Pat Mahomes passing Touchdowns:",
-      "A": "Over 0.5",
-      "B": "Over 1.5"
-    },
-    {
       "Name": "Total Pat Mahomes rushing:",
       "A": "Over 19.5yds",
-      "B": "Over 16.5yds"
+      "B": "Over 14.5yds"
     },
     {
       "Name": "Total Travis Kelce receiving:",
-      "A": "Over 56.5yds",
+      "A": "Over 50.5yds",
       "B": "Over 4.5 receptions"
     },
     {
-      "Name": "Total Rashee Rice receiving:",
-      "A": "Over 57.5yds",
+      "Name": "Total Xavier Worthy receiving:",
+      "A": "Over 45.5yds",
       "B": "Over 4.5 receptions"
     },
     {
-      "Name": "Total Brandon Aiyuk receiving:",
-      "A": "Over 55.5yds",
+      "Name": "Total Devonta Smith receiving:",
+      "A": "Over 43.5yds",
       "B": "Over 3.5 receptions"
     },
     {
-      "Name": "Total George Kittle receiving:",
-      "A": "Over 38.5yds",
+      "Name": "Total AJ Brown receiving:",
+      "A": "Over 58.5yds",
       "B": "Over 3.5 receptions"
     },
     {
-      "Name": "Total Deebo Samuel receiving:",
-      "A": "Over 40.5yds",
+      "Name": "Total Dallas Goedert receiving:",
+      "A": "Over 42.5yds",
       "B": "Over 3.5 receptions"
     },
     {
-      "Name": "Total Isiah Pacheco rushing:",
-      "A": "Over 59.5.5yds",
-      "B": "Over 15.5 carries"
+      "Name": "Total Kareem Hunt rushing:",
+      "A": "Over 30.5.5yds",
+      "B": "Over 10.5 carries"
     },
     {
-      "Name": "Total Christian McCaffrey rushing:",
-      "A": "Over 77.5yds",
+      "Name": "Total Saquon Barkley rushing:",
+      "A": "Over 90.5yds",
       "B": "Over 15.5 carries"
     },
     {
       "Name": "Jersey number of player to score a Touchdown:",
-      "A": "Over 20.5",
-      "B": "Under 20.5"
+      "A": "Over 15.5",
+      "B": "Under 15.5"
     },
     {
       "Name": "Team Commits a Penalty:",
       "A": "Chiefs",
-      "B": "49ers"
+      "B": "Eagles"
     },
     {// half time prop
-      "Name": "Usher performs:",
-      "A": "Caught Up",
-      "B": "DJ got us..."
+      "Name": "Kendrick Lamar performs:",
+      "A": "Humble",
+      "B": "Not Like Us"
     },
     {// half time prop
-      "Name": "Usher performs:",
-      "A": "Yeah!",
-      "B": "Burn"
-    },
-    {// half time prop
-      "Name": "Usher performs:",
-      "A": "OMG",
-      "B": "Love In This Club"
-    },
-    {// half time prop
-      "Name": "Usher performs:",
-      "A": "My Boo",
-      "B": "Confessions"
+      "Name": "Kendrick Lamar performs:",
+      "A": "Squabble Up",
+      "B": "Swimming Pools"
     },
     {// half time prop
       "Name": "Total songs performed at halftime:",
-      "A": "Over 6.5",
-      "B": "Over 7.5"
+      "A": "Over 5.5",
+      "B": "Over 6.5"
     },
     {// half time prop
       "Name": "Halftime Show:",
-      "A": "Usher Changes outfit",
+      "A": "Kendrick Lamar Changes outfit",
       "B": "Guest Performer"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "Brandon Aiyuk",
-      "B": "Deebo Samuel"
+      "A": "Devonta Smith",
+      "B": "Dallas Goedert"
     },
     {
       "Name": "Player Scores a Touchdown:",
-      "A": "George Kittle",
-      "B": "Isiah Pacheco"
+      "A": "AJ Brown",
+      "B": "Kareem Hunt"
     },
     {
       "Name": "Player Scores a Touchdown:",
       "A": "Travis Kelce",
-      "B": "Christian McCaffrey"
+      "B": "Saquon Barkley"
     },
     {
       "Name": "Commercial:",
-      "A": "Budweiser",
-      "B": "Michelob Ultra"
+      "A": "Bud Light",
+      "B": "TurboTax"
     },
     {
       "Name": "Commercial:",
       "A": "Doritos",
-      "B": "Nerds"
+      "B": "Dunkin'"
+    },
+    {
+      "Name": "Commercial:",
+      "A": "Hexclad",
+      "B": "DoorDash'"
     },
     {
       "Name": "Kickoff or Punt:",
@@ -231,7 +211,7 @@ var data = {
       "B": "Rush Over 9.5"
     },
     {
-      "Name": "49ers Explosive Play yds:",
+      "Name": "Eagles Explosive Play yds:",
       "A": "Pass Over 19.5",
       "B": "Rush Over 9.5"
     }
