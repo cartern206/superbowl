@@ -52,12 +52,12 @@ var data = {
     },
     {
       "Name": "Total Jalen Hurts passing:",
-      "A": "Over 195.5yds",
+      "A": "Over 185.5yds",
       "B": "Over 15.5 completions"
     },
     {
       "Name": "Total Jalen Hurts rushing:",
-      "A": "Over 18.5yds",
+      "A": "Over 28.5yds",
       "B": "Over 24.5yds"
     },
     {
@@ -87,8 +87,8 @@ var data = {
     },
     {
       "Name": "Total Pat Mahomes passing:",
-      "A": "Over 232.5yds",
-      "B": "Over 23.5 completions"
+      "A": "Over 217.5yds",
+      "B": "Over 28.5 completions"
     },
     {
       "Name": "Total Pat Mahomes rushing:",
@@ -97,13 +97,13 @@ var data = {
     },
     {
       "Name": "Total Travis Kelce receiving:",
-      "A": "Over 50.5yds",
+      "A": "Over 38.5yds",
       "B": "Over 4.5 receptions"
     },
     {
       "Name": "Total Xavier Worthy receiving:",
-      "A": "Over 45.5yds",
-      "B": "Over 4.5 receptions"
+      "A": "Over 40.5yds",
+      "B": "Over 3.5 receptions"
     },
     {
       "Name": "Total Devonta Smith receiving:",
@@ -112,23 +112,28 @@ var data = {
     },
     {
       "Name": "Total AJ Brown receiving:",
-      "A": "Over 58.5yds",
+      "A": "Over 36.5yds",
       "B": "Over 3.5 receptions"
     },
     {
+      "Name": "Total Marquise Brown receiving:",
+      "A": "Over 23.5yds",
+      "B": "Over 2.5 receptions"
+    },
+    {
       "Name": "Total Dallas Goedert receiving:",
-      "A": "Over 42.5yds",
+      "A": "Over 38.5yds",
       "B": "Over 3.5 receptions"
     },
     {
       "Name": "Total Kareem Hunt rushing:",
       "A": "Over 30.5.5yds",
-      "B": "Over 10.5 carries"
+      "B": "Over 8.5 carries"
     },
     {
       "Name": "Total Saquon Barkley rushing:",
-      "A": "Over 90.5yds",
-      "B": "Over 15.5 carries"
+      "A": "Over 85.5yds",
+      "B": "Over 18.5 carries"
     },
     {
       "Name": "Jersey number of player to score a Touchdown:",
