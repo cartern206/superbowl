@@ -127,7 +127,7 @@ var data = {
     },
     {
       "Name": "Total Kareem Hunt rushing:",
-      "A": "Over 30.5.5yds",
+      "A": "Over 30.5yds",
       "B": "Over 8.5 carries"
     },
     {
